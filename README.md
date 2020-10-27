@@ -6,9 +6,9 @@ Add to pubspec.yaml:
 
 ```yaml
 dependencies:
-    flutter_raw_assets:
-        git:
-            url: https://github.com/ajinasokan/flutter_raw_assets
+  flutter_raw_assets:
+    git:
+      url: https://github.com/ajinasokan/flutter_raw_assets
 
 flutter:
   assets:
